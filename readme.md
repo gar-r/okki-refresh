@@ -1,4 +1,4 @@
-# ![logo](logo.png "okki-status for dwm")
+# okki-refresh
 
 ## What is okki-refresh?
 
