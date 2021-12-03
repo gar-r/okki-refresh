@@ -1,3 +1,3 @@
 module hu.okki.okki-refresh
 
-go 1.15
+go 1.17
