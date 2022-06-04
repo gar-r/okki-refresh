@@ -1,5 +1,5 @@
 build:
-	go build -o okki-refresh
+	go build -o okki-refresh -buildvcs=false
 
 clean:
 	rm -f okki-refresh
