@@ -2,7 +2,7 @@
 
 ## What is okki-refresh?
 
-okki-refresh is a companion utility for the [okki-status](https://github.com/garricasaurus/okki-status) status bar.
+okki-refresh is a companion utility for the [okki-status](https://git.okki.hu/garric/okki-status) status bar.
 `okki-refresh` does not work without `okki-status`, so please get familiar with it first.
 
 ## Installation

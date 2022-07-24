@@ -1,3 +1,3 @@
-module hu.okki.okki-refresh
+module okki-refresh
 
 go 1.17
